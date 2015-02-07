@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://ottopichlhoefer.info # the base hostname & protocol for your site
 twitter_username: docnord
 github_username:  ottopichlhoefer
+phone: +43 1 292 8950-710
 
 # Build settings
 markdown: kramdown

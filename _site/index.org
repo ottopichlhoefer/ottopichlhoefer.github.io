@@ -1,0 +1,19 @@
+# Export needs to be to HTML with ’Body only’ directive.
+#+BEGIN_HTML
+---
+layout: default
+---
+#+END_HTML
+
+* My Projects
+
+** Professional 
+
+- [[http://www.nordrandklinik.at][Nordrandklinik]]
+- [[http://mbsr.at][Mindfulness Based Stress Reduction (MBSR)]]
+- [[http://mbsr.at][Wiener Arbeitsgruppe für Achtsamkeit in Gesellschaft und Gesundheit (WAAG)]] 
+
+** Academic 
+
+-  [[http://www.ecohcare.at][The Ecology of Medical Care (ECOHCARE)]]
+
