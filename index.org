@@ -1,4 +1,4 @@
-# Export needs to be to HTMML with ’Body only’ directive.
+# Export needs to be to HTML with ’Body only’ directive.
 #+BEGIN_HTML
 ---
 layout: default
