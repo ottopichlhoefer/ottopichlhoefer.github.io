@@ -1,0 +1,6 @@
+#+SETUPFILE: C:/Dropbox/NRK_Project/Software/emacs/orgfiles/setup.org
+#+TITLE: Otto Pichlhöfer
+
+
+* My Activities
+  - [[http://nordrandklinik.at]]
