@@ -6,7 +6,7 @@ layout: default
 #+END_HTML
 
 * My Projects
-  I find it increasingly difficult to differentiate the categories of my various projects. Everything seems to flow together and all of them are influencing each other… Nevertheless, here is an attempt:
+  I find it increasingly difficult to differentiate the categories of my various projects… Nevertheless, here is an attempt:
   
 ** Professional 
 
