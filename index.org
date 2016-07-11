@@ -6,14 +6,13 @@ layout: default
 #+END_HTML
 
 * My Projects
-  I find it increasingly difficult to differentiate the categories of my various projects… Nevertheless, here is an attempt:
-  
-** Professional 
+
+** Professional
 
 - [[http://www.nordrandklinik.at][Nordrandklinik (Allgemeinmedizinische Gruppenpraxis)]]
 - [[http://mbsr.at][Mindfulness Based Stress Reduction (MBSR)]]
 
-** Academic 
+** Academic
 
 -  [[http://www.ecohcare.at][The Ecology of Medical Care (ECOHCARE)]]
 
